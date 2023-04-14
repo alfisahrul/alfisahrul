@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfisahrul</h1>
-<h3 align="center">My name Alfi, I'm interested to any project that use programming</h3>
+<h3 align="center">My name is Alfi, I'm interested in any project that uses programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfisahrul&label=Profile%20views&color=0e75b6&style=flat" alt="alfisahrul" /> </p>
 
